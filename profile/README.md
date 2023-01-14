@@ -1,5 +1,26 @@
 ## Hi there 👋
 
+Welcome to Hiveln Writing co.
+
+# Project Name
+
+     Hiveln - Writing Startup Company
+
+
+## Built With
+
+    - Next js + React js
+    - Node js + Typescript
+    - Redux
+
+
+## Developer Information
+
+- Website [`Blyncnov`](https://blyncnov.com/).
+- Twitter [`@jeremytechie`](https://twitter.com/jeremytechie).
+- Linkedin [`Taiwo Boluwatife`](https://linkedin.com/in/blyncnov).
+
+
 <!--
 
 **Here are some ideas to get you started:**
